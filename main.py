@@ -1,5 +1,5 @@
 import sys
-
+from xml import toXML
 
 if __name__ == '__main__':
   if len( sys.argv ) == 1 :
@@ -8,4 +8,4 @@ if __name__ == '__main__':
   
   else:
     file = open(sys.argv[1])
-    print(file)
+    toXML( file )
