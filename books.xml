@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<books>
+	<row>
+		<ID>1</ID>
+		<AUTHOR_ID>1</AUTHOR_ID>
+		<AUTHOR_NAME>George Orwell</AUTHOR_NAME>
+		<TITLE>1984</TITLE>
+	</row>
+	<row>
+		<ID>2</ID>
+		<AUTHOR_ID>1</AUTHOR_ID>
+		<AUTHOR_NAME>George Orwell</AUTHOR_NAME>
+		<TITLE>Animal Farm</TITLE>
+	</row>
+</books>

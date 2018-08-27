@@ -1,22 +1,45 @@
-<dataBook xmlns="http://www.jooq.org/xsd/jooq-export-3.10.0.xsd">
-  <fields>
-    <field name="ID" type="INTEGER"/>
-    <field name="AUTHOR_ID" type="INTEGER"/>
-	<field name="AUTHOR_NAME" type="VARCHAR"/>
-    <field name="TITLE" type="VARCHAR"/>
-  </fields>
-  <records>
-    <record>
-      <value field="ID">1</value>
-      <value field="AUTHOR_ID">1</value>
-	  <value field="AUTHOR_NAME">George Orwell</value>
-      <value field="TITLE">1984</value>
-    </record>
-    <record>
-      <value field="ID">2</value>
-      <value field="AUTHOR_ID">1</value>
-	  <value field="AUTHOR_NAME">George Orwell</value>
-      <value field="TITLE">Animal Farm</value>
-    </record>
-  </records>
-</dataBook>
+<?xml version="1.0"?>
+<table>
+  <row>
+    <make>BMW</make>
+    <model>R1150RS</model>
+    <year>2004</year>
+    <mileage>14274</mileage>
+  </row>
+  <row>
+    <make>Kawasaki</make>
+    <model>GPz1100</model>
+    <year>1996</year>
+    <mileage>60234</mileage>
+  </row>
+  <row>
+    <make>Ducati</make>
+    <model>ST2</model>
+    <year>1997</year>
+    <mileage>24000</mileage>
+  </row>
+  <row>
+    <make>Moto Guzzi</make>
+    <model>LeMans</model>
+    <year>2001</year>
+    <mileage>12393</mileage>
+  </row>
+  <row>
+    <make>BMW</make>
+    <model>R1150R</model>
+    <year>2002</year>
+    <mileage>17439</mileage>
+  </row>
+  <row>
+    <make>Ducati</make>
+    <model>Monster</model>
+    <year>2000</year>
+    <mileage>15682</mileage>
+  </row>
+  <row>
+    <make>Aprilia</make>
+    <model>Futura</model>
+    <year>2001</year>
+    <mileage>17320</mileage>
+  </row>
+</table>
