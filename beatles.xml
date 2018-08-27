@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<beatles>
+	<row>
+		<Title>Please Please Me</Title>
+		<Released>22 March 1963</Released>
+		<Label>Parlophone(UK)</Label>
+		<UK Chart Position>1</UK Chart Position>
+		<US Chart Position>-</US Chart Position>
+		<BPI Certification>Gold</BPI Certification>
+		<RIAA Certification>Platinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>With the Beatles</Title>
+		<Released>22 November 1963</Released>
+		<Label>Parlophone(UK)</Label>
+		<UK Chart Position>1</UK Chart Position>
+		<US Chart Position>-</US Chart Position>
+		<BPI Certification>Platinum</BPI Certification>
+		<RIAA Certification>Gold</RIAA Certification>
+	</row>
+	<row>
+		<Title>Beatlemania! With the Beatles</Title>
+		<Released>25 November 1963</Released>
+		<Label>Capitol(CAN)</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>-</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification></RIAA Certification>
+	</row>
+	<row>
+		<Title>Introducing... The Beatles</Title>
+		<Released>10 January 1964</Released>
+		<Label>Vee-Jay(US)</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>2</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification></RIAA Certification>
+	</row>
+	<row>
+		<Title>Meet the Beatles!</Title>
+		<Released>20 January 1964</Released>
+		<Label>Capitol(US)</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification>5xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Twist and Shout</Title>
+		<Released>3 February 1964</Released>
+		<Label>Capitol(CAN)</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>-</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification></RIAA Certification>
+	</row>
+	<row>
+		<Title>The Beatles' Second Album</Title>
+		<Released>10 April 1964</Released>
+		<Label>Capitol(US)</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification>2xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>The Beatles' Long Tall Sally</Title>
+		<Released>11 May 1964</Released>
+		<Label>Capitol(CAN)</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>-</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification></RIAA Certification>
+	</row>
+	<row>
+		<Title>A Hard Day's Night</Title>
+		<Released>26 June 1964</Released>
+		<Label>United Artists(US)[C]</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification>4xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title></Title>
+		<Released>10 July 1964</Released>
+		<Label>Parlophone(UK)</Label>
+		<UK Chart Position>1</UK Chart Position>
+		<US Chart Position>-</US Chart Position>
+		<BPI Certification>Gold</BPI Certification>
+		<RIAA Certification></RIAA Certification>
+	</row>
+	<row>
+		<Title>Something New</Title>
+		<Released>20 July 1964</Released>
+		<Label>Capitol(US)</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>2</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification>Platinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Beatles for Sale</Title>
+		<Released>4 December 1964</Released>
+		<Label>Parlophone(UK)</Label>
+		<UK Chart Position>1</UK Chart Position>
+		<US Chart Position>-</US Chart Position>
+		<BPI Certification>Gold</BPI Certification>
+		<RIAA Certification>Platinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Beatles '65</Title>
+		<Released>15 December 1964</Released>
+		<Label>Capitol(US)</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification>3xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Beatles VI</Title>
+		<Released>14 June 1965</Released>
+		<Label>Parlophone(NZ), Capitol(US)</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification>Platinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Help!</Title>
+		<Released>6 August 1965</Released>
+		<Label>Parlophone(UK)</Label>
+		<UK Chart Position>1</UK Chart Position>
+		<US Chart Position>-</US Chart Position>
+		<BPI Certification>Platinum</BPI Certification>
+		<RIAA Certification></RIAA Certification>
+	</row>
+	<row>
+		<Title></Title>
+		<Released>13 August 1965</Released>
+		<Label>Capitol(US)[C]</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification>3xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Rubber Soul</Title>
+		<Released>3 December 1965</Released>
+		<Label>Parlophone(UK)</Label>
+		<UK Chart Position>1</UK Chart Position>
+		<US Chart Position>-</US Chart Position>
+		<BPI Certification>Platinum</BPI Certification>
+		<RIAA Certification></RIAA Certification>
+	</row>
+	<row>
+		<Title></Title>
+		<Released>6 December 1965</Released>
+		<Label>Capitol(US)[C]</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification>6xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Yesterday and Today</Title>
+		<Released>15 June 1966</Released>
+		<Label>Capitol(US)</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification>2xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Revolver</Title>
+		<Released>5 August 1966</Released>
+		<Label>Parlophone(UK)</Label>
+		<UK Chart Position>1</UK Chart Position>
+		<US Chart Position>-</US Chart Position>
+		<BPI Certification>Platinum</BPI Certification>
+		<RIAA Certification></RIAA Certification>
+	</row>
+	<row>
+		<Title></Title>
+		<Released>8 August 1966</Released>
+		<Label>Capitol(US)[C]</Label>
+		<UK Chart Position>-</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification></BPI Certification>
+		<RIAA Certification>5xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Sgt. Pepper's Lonely Hearts Club Band</Title>
+		<Released>1 June 1967</Released>
+		<Label>Parlophone(UK), Capitol(US)</Label>
+		<UK Chart Position>1</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification>3xPlatinum</BPI Certification>
+		<RIAA Certification>11xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Magical Mystery Tour</Title>
+		<Released>27 November 1967</Released>
+		<Label>Parlophone(UK), Capitol(US)</Label>
+		<UK Chart Position>31[D]</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification>Platinum</BPI Certification>
+		<RIAA Certification>6xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>The Beatles</Title>
+		<Released>22 November 1968</Released>
+		<Label>Apple(UK), Capitol(US)</Label>
+		<UK Chart Position>1</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification>Platinum</BPI Certification>
+		<RIAA Certification>19xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Yellow Submarine</Title>
+		<Released>13 January 1969</Released>
+		<Label>Apple(UK), Capitol(US)</Label>
+		<UK Chart Position>3</UK Chart Position>
+		<US Chart Position>2</US Chart Position>
+		<BPI Certification>Silver</BPI Certification>
+		<RIAA Certification>Platinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Abbey Road</Title>
+		<Released>26 September 1969</Released>
+		<Label>Apple(UK), Capitol(US)</Label>
+		<UK Chart Position>1</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification>2xPlatinum</BPI Certification>
+		<RIAA Certification>12xPlatinum</RIAA Certification>
+	</row>
+	<row>
+		<Title>Let It Be</Title>
+		<Released>8 May 1970</Released>
+		<Label>Apple(UK),United Artists(US)</Label>
+		<UK Chart Position>1</UK Chart Position>
+		<US Chart Position>1</US Chart Position>
+		<BPI Certification>Gold</BPI Certification>
+		<RIAA Certification>4xPlatinum</RIAA Certification>
+	</row>
+</beatles>
