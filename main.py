@@ -1,14 +1,13 @@
 import sys
-from xml import toXML
-from csv_checker import csv_checker
+from to_xml import to_XML
+from to_json import to_JSON
 
 if __name__ == '__main__':
   if len( sys.argv ) == 1 :
     fileName = input("File Name location: ")
-    file = open(fileName)
-    toXML( file )
+    to_XML(fileName)
+    to_JSON(fileName)
   
   else:
-    csv_checker(sys.argv[1])
-    #toXML(sys.argv[1])
-    
+    to_XML(sys.argv[1])
+    to_JSON(sys.argv[1])
