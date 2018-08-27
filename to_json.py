@@ -1,7 +1,9 @@
 import json
 
-def to_JSON(file):
+def to_JSON(filename):
     # sets the file position at the beginning
+    file = open(filename)
+
     file.seek(0, 0)
 
     # get csv lines

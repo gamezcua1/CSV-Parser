@@ -1,2 +1,0 @@
-def toXML( file ):
-  pass
