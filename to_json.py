@@ -32,18 +32,6 @@ def to_JSON(filename):
         super_json["fields"].append( { "name": head, "type": field_type[i] })
         i += 1
 
-    # conver the string to number
-    i = 0
-    for record in super_json["records"]:
-        x = 0
-        for field in record:
-            if field_type[x] == 'integer':
-                super_json['records'][i][x] = int(field)
-            elif field_type[x] == 'decimal':
-                super_json['records'][i][x] = float(field)
-            x += 1
-        i += 1
-
     # create the json file (we need this because we have export the file with doublequotes)
     with open(file_name.replace('csv', 'json'), 'w') as fp:
         json.dump(super_json, fp)

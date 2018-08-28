@@ -7,7 +7,6 @@ if __name__ == '__main__':
     fileName = input("File Name location: ")
     to_XML(fileName)
     to_JSON(fileName)
-  
   else:
-    to_XML(sys.argv[1])
     to_JSON(sys.argv[1])
+    to_XML(sys.argv[1])
