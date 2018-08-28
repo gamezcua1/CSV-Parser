@@ -48,4 +48,3 @@ def to_XML( filename ):
 
   print("XML generated correctly")
   print( f"XML file name : {fileName}.xml ")
-
